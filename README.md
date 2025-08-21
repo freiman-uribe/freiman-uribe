@@ -70,16 +70,20 @@ Me apasiona aplicar **buenas prácticas de desarrollo**, usar **arquitectura lim
 
 ## 💼 Experiencia Laboral  
 
-- **ElectroHuila** – *Desarrollador de Software* (2019 - 2020)  
+- **ElectroHuila** – *Desarrollador de Software*  
+  (📅 Oct/2019 – Abr/2020) → 6 meses  
   Desarrollo de sistema de inventario de equipos electrónicos usando **Java, Spring Boot, Laravel y MySQL**.  
 
-- **FundaSoftMiss** – *Full Stack Developer* (2020)  
+- **FundaSoftMiss** – *Full Stack Developer*  
+  (📅 Abr/2020 – Oct/2020) → 6 meses  
   Desarrollo y revisión de microservicios bancarios con **Java, Spring Boot y Angular**.  
 
-- **PreventionWorld Q.H.S.E** – *Desarrollador - Gestor TIC* (2020 - 2021)  
-  Sistema de control para inspección de equipos de altura y migración de bases de datos (**Vue 2, Node.js, MySQL**).  
+- **PreventionWorld Q.H.S.E** – *Desarrollador - Gestor TIC*  
+  (📅 Oct/2020 – Nov/2021) → 1 año y 1 mes  
+  Sistema de control para inspección de equipos de altura y migración de bases de datos (**Vue 2, Node.js, MySQL**).
 
-- **BEWE Software** – *Frontend Developer* (2021 - 2025)  
+- **BEWE Software** – *Frontend Developer*  
+  (📅 Nov/2021 – Ago/2025) → 3 años y 9 meses  
   Desarrollo de **widgets, aplicaciones móviles y soluciones innovadoras** con **Vue 2/3, React, React Native, Node.js, MongoDB y Docker**.  
 
 ---
