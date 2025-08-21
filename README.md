@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/📄%20Ver%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Ver CV"/>
   </a>
 </p>
+
 ---
 
 ## 🚀 Sobre mí  
