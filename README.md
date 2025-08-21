@@ -94,33 +94,32 @@ Me apasiona aplicar **buenas prácticas de desarrollo**, usar **arquitectura lim
 
 ---
 
-## 📚 Cursos y Certificaciones 
+## 📚 Cursos y Certificaciones  
 
-🔗 [![Google Drive](https://img.shields.io/badge/📂%20Ver%20Certificados-Google%20Drive-blue?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Og3ykGqD4SQasp8T8pD1I6Vab05DITyT?usp=drive_link) 
+🔗 [![Google Drive](https://img.shields.io/badge/📂%20Ver%20Certificados-Google%20Drive-blue?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Og3ykGqD4SQasp8T8pD1I6Vab05DITyT?usp=drive_link)
 
-- **Curso de Java - Nivel Básico** – Udemy, Mar 24 2025 – 4.5h  
-- **React y Spring Boot: Crea tu primera App Full Stack** – Udemy, Mar 24 2025 – 3h  
-- **React Pro: Lleva tus bases al siguiente nivel** – Udemy, Feb 20 2023 – 27h  
-- **Curso de Vue.js: Introducción y fundamentos** – Platzi, Jul 18 2023 – 22h  
-- **Curso de Vue.js: Componentes y composition API** – Platzi, Jul 22 2023 – 13h  
-- **Curso de Vite.js** – Platzi, Ago 31 2023 – 18h  
-- **Seminario en gerencia de Proyectos bajo metodologías ágiles** – FET, May 29 2023 – 48h  
-- **MongoDB: Aprende desde cero a experto** – Udemy, Dic 20 2022 – 7.5h  
-- **Vue.js: De cero a experto** – Udemy, Nov 9 2022 – 43.5h  
-- **Curso práctico de Docker y microservicios** – Udemy, Oct 4 2022 – 9h  
-- **Complete Guide to Velo by Wix: Go from zero to hero** – Udemy, Ago 3 2022 – 14h  
-- **Seminario de seguridad informática** – FET, Jun 9 2022  
-- **React.js Guía de 0** – Udemy, Abr 30 2022 – 14.5h  
-- **Curso de Innovación y tecnologías aplicadas al conocimiento** – SENA, Dic 12 2020 – 40h  
-- **Curso de administración de Moodle** – EduLABS, Nov 10 2020 – 120h  
-- **English dot works 2** – SENA, Nov 2 2018 – 60h  
-- **English dot works 1** – SENA, Ago 8 2018 – 60h  
-- **English dot works beginner** – SENA, May 2 2018 – 60h  
-- **Inglés básico - nivel 1** – SENA, May 3 2019 – 48h  
-- **Diplomado en economía solidaria y organizaciones comunales** – Ultrahuilca, Abr 1 2016 – 180h  
-- **Tecnologías de la información y la comunicación TICS (INTERNET)** – SENA, Dic 12 2016 – 40h  
-- **Fortalecimiento en razonamiento cuantitativo** – SENA, Ago 18 2015 – 57h  
-- **Fortalecimiento en lectura crítica** – SENA, Oct 6 2015 – 54h  
-- **Complete Guide to Velo by Wix** – SENA, Oct 19 2015 – 45h  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Curso de Java - Nivel Básico** – Udemy, Mar 24 2025 – 4.5h  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20"/> **React y Spring Boot: Crea tu primera App Full Stack** – Udemy, Mar 24 2025 – 3h  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **React Pro: Lleva tus bases al siguiente nivel** – Udemy, Feb 20 2023 – 27h  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20"/> **Curso de Vue.js: Introducción y fundamentos** – Platzi, Jul 18 2023 – 22h  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20"/> **Curso de Vue.js: Componentes y composition API** – Platzi, Jul 22 2023 – 13h  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="20"/> **Curso de Vite.js** – Platzi, Ago 31 2023 – 18h  
+- 📊 **Seminario en gerencia de Proyectos bajo metodologías ágiles** – FET, May 29 2023 – 48h  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> **MongoDB: Aprende desde cero a experto** – Udemy, Dic 20 2022 – 7.5h  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20"/> **Vue.js: De cero a experto** – Udemy, Nov 9 2022 – 43.5h  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> **Curso práctico de Docker y microservicios** – Udemy, Oct 4 2022 – 9h  
+- 🌐 **Complete Guide to Velo by Wix: Go from zero to hero** – Udemy, Ago 3 2022 – 14h  
+- 🛡️ **Seminario de seguridad informática** – FET, Jun 9 2022  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **React.js Guía de 0** – Udemy, Abr 30 2022 – 14.5h  
+- 💡 **Curso de Innovación y tecnologías aplicadas al conocimiento** – SENA, Dic 12 2020 – 40h  
+- 🎓 **Curso de administración de Moodle** – EduLABS, Nov 10 2020 – 120h  
+- 🌍 **English dot works 2** – SENA, Nov 2 2018 – 60h  
+- 🌍 **English dot works 1** – SENA, Ago 8 2018 – 60h  
+- 🌍 **English dot works beginner** – SENA, May 2 2018 – 60h  
+- 🌍 **Inglés básico - nivel 1** – SENA, May 3 2019 – 48h  
+- 📘 **Diplomado en economía solidaria y organizaciones comunales** – Ultrahuilca, Abr 1 2016 – 180h  
+- 🌐 **Tecnologías de la información y la comunicación TICS (INTERNET)** – SENA, Dic 12 2016 – 40h  
+- ➗ **Fortalecimiento en razonamiento cuantitativo** – SENA, Ago 18 2015 – 57h  
+- 📖 **Fortalecimiento en lectura crítica** – SENA, Oct 6 2015 – 54h
 
 ---
