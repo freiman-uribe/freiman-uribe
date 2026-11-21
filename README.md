@@ -11,6 +11,7 @@
 📧 **Email:** [freimanuribe15@gmail.com](mailto:freimanuribe15@gmail.com)  
 📱 **Tel:** +57 3016019609  
 🔗 [LinkedIn](https://www.linkedin.com/in/freiman-norvey-uribe-ruiz--dev)
+🔗 [Portafolio WEB](https://freimanuribe.netlify.app/)
 <p align="center">
   <a href="https://github.com/freiman-uribe/freiman-uribe/blob/main/assets/Hoja_de_vida_Freiman.pdf">
     <img src="https://img.shields.io/badge/📄%20Ver%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Ver CV"/>
