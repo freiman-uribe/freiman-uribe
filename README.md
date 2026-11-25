@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 Sobre mí  
-Soy un **desarrollador full stack** con **5 años de experiencia** en la construcción de aplicaciones web y móviles. Mi formación combina una sólida base académica (ingeniería de software y varios títulos técnicos/tecnológicos) con experiencia práctica en proyectos reales.  
+Soy un **desarrollador full stack** con más de **5 años de experiencia** en la construcción de aplicaciones web y móviles. Mi formación combina una sólida base académica (ingeniería de software y varios títulos técnicos/tecnológicos) con experiencia práctica en proyectos reales.  
 
 Me apasiona aplicar **buenas prácticas de desarrollo**, usar **arquitectura limpia/hexagonal** y entregar productos de **alta calidad**, colaborando en equipos multidisciplinarios.  
 
